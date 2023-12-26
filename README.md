@@ -1,0 +1,4 @@
+Project Description
+In this project, we’ll combine our technical and creative skills to generate unique music using pretrained AI frameworks. We’ll code interactive programs in Python that allow users to input text descriptions (prompts) of musical styles and instruments and hear the AI-generated music that matches the prompts. Throughout the project, we’ll experiment with different prompts to learn how AI models create music.
+
+We’ll gain practical experience in GUI programming and event handling by building an interactive UI for music generation. This will further allow us to connect UI components like text boxes and buttons to Python code that call the functions to generate music. Additionally, we’ll explore how prompts impact the quality and variety of AI-generated music. Lastly, we’ll compare outputs from different prompts to understand the power of prompt engineering.
